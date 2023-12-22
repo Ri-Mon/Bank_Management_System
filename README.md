@@ -22,7 +22,6 @@
             transaction history
             take loan
             transfer balance
-
         1for admin:
             create user acc(name, mail, addrs, acType)
             delete user acc
